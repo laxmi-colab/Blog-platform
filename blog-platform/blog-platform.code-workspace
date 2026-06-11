@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../routes"
+		},
+		{
+			"path": "../.env"
+		},
+		{
+			"path": "../middleware"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public"
+	}
+}
